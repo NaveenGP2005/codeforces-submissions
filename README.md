@@ -6,13 +6,17 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 1 |
+| 2 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (1)
+- [dfs and similar](#dfs-and-similar) (1)
+- [dp](#dp) (1)
+- [graphs](#graphs) (1)
+- [trees](#trees) (1)
 
 ---
 
@@ -21,6 +25,30 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1573C | [Book](https://codeforces.com/contest/1573/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/1573/C%20-%20Book/solution.cpp) |
+
+### dfs and similar
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1547G | [How Many Paths?](https://codeforces.com/contest/1547/problem/G) | 2100 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/1547/G%20-%20How%20Many%20Paths%3F/solution.cpp) |
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1547G | [How Many Paths?](https://codeforces.com/contest/1547/problem/G) | 2100 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/1547/G%20-%20How%20Many%20Paths%3F/solution.cpp) |
+
+### graphs
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1547G | [How Many Paths?](https://codeforces.com/contest/1547/problem/G) | 2100 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/1547/G%20-%20How%20Many%20Paths%3F/solution.cpp) |
+
+### trees
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1547G | [How Many Paths?](https://codeforces.com/contest/1547/problem/G) | 2100 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/1547/G%20-%20How%20Many%20Paths%3F/solution.cpp) |
 
 ---
 
