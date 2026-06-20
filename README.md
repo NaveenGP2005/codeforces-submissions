@@ -6,18 +6,19 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 7 |
+| 5 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (1)
+- [constructive algorithms](#constructive-algorithms) (1)
 - [dfs and similar](#dfs-and-similar) (1)
-- [dp](#dp) (2)
+- [dp](#dp) (3)
 - [graphs](#graphs) (1)
 - [math](#math) (2)
-- [matrices](#matrices) (1)
+- [matrices](#matrices) (2)
 - [trees](#trees) (1)
 
 ---
@@ -27,6 +28,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1573C | [Book](https://codeforces.com/contest/1573/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/1573/C%20-%20Book/solution.cpp) |
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 582B | [Once Again...](https://codeforces.com/contest/582/problem/B) | 1900 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/582/B%20-%20Once%20Again.../solution.cpp) |
 
 ### dfs and similar
 
@@ -38,6 +45,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 582B | [Once Again...](https://codeforces.com/contest/582/problem/B) | 1900 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/582/B%20-%20Once%20Again.../solution.cpp) |
 | 1117D | [Magic Gems](https://codeforces.com/contest/1117/problem/D) | 2100 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/1117/D%20-%20Magic%20Gems/solution.cpp) |
 | 1547G | [How Many Paths?](https://codeforces.com/contest/1547/problem/G) | 2100 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/1547/G%20-%20How%20Many%20Paths%3F/solution.cpp) |
 
@@ -58,6 +66,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 582B | [Once Again...](https://codeforces.com/contest/582/problem/B) | 1900 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/582/B%20-%20Once%20Again.../solution.cpp) |
 | 1117D | [Magic Gems](https://codeforces.com/contest/1117/problem/D) | 2100 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/1117/D%20-%20Magic%20Gems/solution.cpp) |
 
 ### trees
