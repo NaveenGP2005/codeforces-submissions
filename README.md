@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 6 |
+| 4 | 7 |
 
 ---
 
@@ -14,9 +14,10 @@
 
 - [Uncategorized](#uncategorized) (1)
 - [dfs and similar](#dfs-and-similar) (1)
-- [dp](#dp) (1)
+- [dp](#dp) (2)
 - [graphs](#graphs) (1)
-- [math](#math) (1)
+- [math](#math) (2)
+- [matrices](#matrices) (1)
 - [trees](#trees) (1)
 
 ---
@@ -37,6 +38,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1117D | [Magic Gems](https://codeforces.com/contest/1117/problem/D) | 2100 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/1117/D%20-%20Magic%20Gems/solution.cpp) |
 | 1547G | [How Many Paths?](https://codeforces.com/contest/1547/problem/G) | 2100 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/1547/G%20-%20How%20Many%20Paths%3F/solution.cpp) |
 
 ### graphs
@@ -50,6 +52,13 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 185A | [Plant](https://codeforces.com/contest/185/problem/A) | 1300 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/185/A%20-%20Plant/solution.cpp) |
+| 1117D | [Magic Gems](https://codeforces.com/contest/1117/problem/D) | 2100 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/1117/D%20-%20Magic%20Gems/solution.cpp) |
+
+### matrices
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1117D | [Magic Gems](https://codeforces.com/contest/1117/problem/D) | 2100 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/1117/D%20-%20Magic%20Gems/solution.cpp) |
 
 ### trees
 
