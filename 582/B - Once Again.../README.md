@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/582/problem/B" target="_blank" rel="noopener noreferrer">582B — Once Again...</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1900 |
+| **Language** | C++17 (GCC 7-32) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 582B](https://codeforces.com/contest/582/problem/B) |
+
+## Topics
+`constructive algorithms` `dp` `matrices`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">B. Once Again...</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>You are given an array of positive integers <span class="tex-span"><i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ..., <i>a</i><sub class="lower-index"><i>n</i> × <i>T</i></sub></span> of length <span class="tex-span"><i>n</i> × <i>T</i></span>. We know that for any <span class="tex-span"><i>i</i> > <i>n</i></span> it is true that <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub> = <i>a</i><sub class="lower-index"><i>i</i> - <i>n</i></sub></span>. Find the length of the longest non-decreasing sequence of the given array.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line contains two space-separated integers: <span class="tex-span"><i>n</i></span>, <span class="tex-span"><i>T</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 100</span>, <span class="tex-span">1 ≤ <i>T</i> ≤ 10<sup class="upper-index">7</sup></span>). The second line contains <span class="tex-span"><i>n</i></span> space-separated integers <span class="tex-span"><i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ..., <i>a</i><sub class="lower-index"><i>n</i></sub></span> (<span class="tex-span">1 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ 300</span>).</p></div><div class="output-specification"><div class="section-title">Output</div><p>Print a single number — the length of a sought sequence.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id005049442087045144" id="id008114173974325465" class="input-output-copier">Copy</div></div><pre id="id005049442087045144">4 3<br>3 1 4 2<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id008006755716568037" id="id009637872029375422" class="input-output-copier">Copy</div></div><pre id="id008006755716568037">5<br></pre></div></div></div><div class="note"><div class="section-title">Note</div><p>The array given in the sample looks like that: 3, <span class="tex-font-style-bf">1</span>, 4, <span class="tex-font-style-bf">2</span>, <span class="tex-font-style-bf">3</span>, 1, <span class="tex-font-style-bf">4</span>, 2, 3, 1, <span class="tex-font-style-bf">4</span>, 2. The elements in bold form the largest non-decreasing subsequence. </p></div>
