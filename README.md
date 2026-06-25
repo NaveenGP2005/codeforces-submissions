@@ -6,20 +6,23 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 8 |
+| 8 | 11 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (1)
+- [binary search](#binary-search) (1)
+- [bitmasks](#bitmasks) (1)
 - [constructive algorithms](#constructive-algorithms) (1)
+- [data structures](#data-structures) (1)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (5)
 - [graphs](#graphs) (1)
 - [math](#math) (2)
 - [matrices](#matrices) (4)
-- [trees](#trees) (1)
+- [trees](#trees) (2)
 
 ---
 
@@ -29,11 +32,29 @@
 |---|---------|------------|----------|
 | 1573C | [Book](https://codeforces.com/contest/1573/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/1573/C%20-%20Book/solution.cpp) |
 
+### binary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 706D | [Vasiliy's Multiset](https://codeforces.com/contest/706/problem/D) | 1800 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/706/D%20-%20Vasiliy's%20Multiset/solution.cpp) |
+
+### bitmasks
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 706D | [Vasiliy's Multiset](https://codeforces.com/contest/706/problem/D) | 1800 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/706/D%20-%20Vasiliy's%20Multiset/solution.cpp) |
+
 ### constructive algorithms
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 582B | [Once Again...](https://codeforces.com/contest/582/problem/B) | 1900 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/582/B%20-%20Once%20Again.../solution.cpp) |
+
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 706D | [Vasiliy's Multiset](https://codeforces.com/contest/706/problem/D) | 1800 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/706/D%20-%20Vasiliy's%20Multiset/solution.cpp) |
 
 ### dfs and similar
 
@@ -77,6 +98,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 706D | [Vasiliy's Multiset](https://codeforces.com/contest/706/problem/D) | 1800 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/706/D%20-%20Vasiliy's%20Multiset/solution.cpp) |
 | 1547G | [How Many Paths?](https://codeforces.com/contest/1547/problem/G) | 2100 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/1547/G%20-%20How%20Many%20Paths%3F/solution.cpp) |
 
 ---
