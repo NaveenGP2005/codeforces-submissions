@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 8 | 11 |
+| 9 | 11 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (1)
+- [Uncategorized](#uncategorized) (2)
 - [binary search](#binary-search) (1)
 - [bitmasks](#bitmasks) (1)
 - [constructive algorithms](#constructive-algorithms) (1)
@@ -30,6 +30,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 948D | [Perfect Security](https://codeforces.com/contest/948/problem/D) | Unrated | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/948/D%20-%20Perfect%20Security/solution.cpp) |
 | 1573C | [Book](https://codeforces.com/contest/1573/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/1573/C%20-%20Book/solution.cpp) |
 
 ### binary search
