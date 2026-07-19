@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 16 | 11 |
+| 17 | 13 |
 
 ---
 
@@ -16,13 +16,15 @@
 - [binary search](#binary-search) (1)
 - [bitmasks](#bitmasks) (1)
 - [constructive algorithms](#constructive-algorithms) (1)
-- [data structures](#data-structures) (1)
+- [data structures](#data-structures) (2)
 - [dfs and similar](#dfs-and-similar) (1)
+- [divide and conquer](#divide-and-conquer) (1)
 - [dp](#dp) (5)
 - [graphs](#graphs) (1)
 - [math](#math) (2)
 - [matrices](#matrices) (4)
-- [trees](#trees) (2)
+- [strings](#strings) (1)
+- [trees](#trees) (3)
 
 ---
 
@@ -62,6 +64,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 665E | [Beautiful Subarrays](https://codeforces.com/contest/665/problem/E) | 2100 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/665/E%20-%20Beautiful%20Subarrays/solution.cpp) |
 | 706D | [Vasiliy's Multiset](https://codeforces.com/contest/706/problem/D) | 1800 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/706/D%20-%20Vasiliy's%20Multiset/solution.cpp) |
 
 ### dfs and similar
@@ -69,6 +72,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1547G | [How Many Paths?](https://codeforces.com/contest/1547/problem/G) | 2100 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/1547/G%20-%20How%20Many%20Paths%3F/solution.cpp) |
+
+### divide and conquer
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 665E | [Beautiful Subarrays](https://codeforces.com/contest/665/problem/E) | 2100 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/665/E%20-%20Beautiful%20Subarrays/solution.cpp) |
 
 ### dp
 
@@ -102,10 +111,17 @@
 | 621E | [Wet Shark and Blocks](https://codeforces.com/contest/621/problem/E) | 2000 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/621/E%20-%20Wet%20Shark%20and%20Blocks/solution.cpp) |
 | 1117D | [Magic Gems](https://codeforces.com/contest/1117/problem/D) | 2100 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/1117/D%20-%20Magic%20Gems/solution.cpp) |
 
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 665E | [Beautiful Subarrays](https://codeforces.com/contest/665/problem/E) | 2100 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/665/E%20-%20Beautiful%20Subarrays/solution.cpp) |
+
 ### trees
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 665E | [Beautiful Subarrays](https://codeforces.com/contest/665/problem/E) | 2100 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/665/E%20-%20Beautiful%20Subarrays/solution.cpp) |
 | 706D | [Vasiliy's Multiset](https://codeforces.com/contest/706/problem/D) | 1800 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/706/D%20-%20Vasiliy's%20Multiset/solution.cpp) |
 | 1547G | [How Many Paths?](https://codeforces.com/contest/1547/problem/G) | 2100 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/1547/G%20-%20How%20Many%20Paths%3F/solution.cpp) |
 
