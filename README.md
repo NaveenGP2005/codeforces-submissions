@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 17 | 13 |
+| 18 | 15 |
 
 ---
 
@@ -14,17 +14,19 @@
 
 - [Uncategorized](#uncategorized) (9)
 - [binary search](#binary-search) (1)
-- [bitmasks](#bitmasks) (1)
+- [bitmasks](#bitmasks) (2)
+- [brute force](#brute-force) (1)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [data structures](#data-structures) (2)
-- [dfs and similar](#dfs-and-similar) (1)
-- [divide and conquer](#divide-and-conquer) (1)
-- [dp](#dp) (5)
+- [dfs and similar](#dfs-and-similar) (2)
+- [divide and conquer](#divide-and-conquer) (2)
+- [dp](#dp) (6)
 - [graphs](#graphs) (1)
+- [greedy](#greedy) (1)
 - [math](#math) (2)
 - [matrices](#matrices) (4)
-- [strings](#strings) (1)
-- [trees](#trees) (3)
+- [strings](#strings) (2)
+- [trees](#trees) (4)
 
 ---
 
@@ -53,6 +55,13 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 706D | [Vasiliy's Multiset](https://codeforces.com/contest/706/problem/D) | 1800 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/706/D%20-%20Vasiliy's%20Multiset/solution.cpp) |
+| 1285D | [Dr. Evil Underscores](https://codeforces.com/contest/1285/problem/D) | 1900 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/1285/D%20-%20Dr.%20Evil%20Underscores/solution.cpp) |
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1285D | [Dr. Evil Underscores](https://codeforces.com/contest/1285/problem/D) | 1900 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/1285/D%20-%20Dr.%20Evil%20Underscores/solution.cpp) |
 
 ### constructive algorithms
 
@@ -71,6 +80,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1285D | [Dr. Evil Underscores](https://codeforces.com/contest/1285/problem/D) | 1900 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/1285/D%20-%20Dr.%20Evil%20Underscores/solution.cpp) |
 | 1547G | [How Many Paths?](https://codeforces.com/contest/1547/problem/G) | 2100 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/1547/G%20-%20How%20Many%20Paths%3F/solution.cpp) |
 
 ### divide and conquer
@@ -78,6 +88,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 665E | [Beautiful Subarrays](https://codeforces.com/contest/665/problem/E) | 2100 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/665/E%20-%20Beautiful%20Subarrays/solution.cpp) |
+| 1285D | [Dr. Evil Underscores](https://codeforces.com/contest/1285/problem/D) | 1900 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/1285/D%20-%20Dr.%20Evil%20Underscores/solution.cpp) |
 
 ### dp
 
@@ -87,6 +98,7 @@
 | 582B | [Once Again...](https://codeforces.com/contest/582/problem/B) | 1900 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/582/B%20-%20Once%20Again.../solution.cpp) |
 | 621E | [Wet Shark and Blocks](https://codeforces.com/contest/621/problem/E) | 2000 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/621/E%20-%20Wet%20Shark%20and%20Blocks/solution.cpp) |
 | 1117D | [Magic Gems](https://codeforces.com/contest/1117/problem/D) | 2100 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/1117/D%20-%20Magic%20Gems/solution.cpp) |
+| 1285D | [Dr. Evil Underscores](https://codeforces.com/contest/1285/problem/D) | 1900 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/1285/D%20-%20Dr.%20Evil%20Underscores/solution.cpp) |
 | 1547G | [How Many Paths?](https://codeforces.com/contest/1547/problem/G) | 2100 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/1547/G%20-%20How%20Many%20Paths%3F/solution.cpp) |
 
 ### graphs
@@ -94,6 +106,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1547G | [How Many Paths?](https://codeforces.com/contest/1547/problem/G) | 2100 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/1547/G%20-%20How%20Many%20Paths%3F/solution.cpp) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1285D | [Dr. Evil Underscores](https://codeforces.com/contest/1285/problem/D) | 1900 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/1285/D%20-%20Dr.%20Evil%20Underscores/solution.cpp) |
 
 ### math
 
@@ -116,6 +134,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 665E | [Beautiful Subarrays](https://codeforces.com/contest/665/problem/E) | 2100 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/665/E%20-%20Beautiful%20Subarrays/solution.cpp) |
+| 1285D | [Dr. Evil Underscores](https://codeforces.com/contest/1285/problem/D) | 1900 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/1285/D%20-%20Dr.%20Evil%20Underscores/solution.cpp) |
 
 ### trees
 
@@ -123,6 +142,7 @@
 |---|---------|------------|----------|
 | 665E | [Beautiful Subarrays](https://codeforces.com/contest/665/problem/E) | 2100 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/665/E%20-%20Beautiful%20Subarrays/solution.cpp) |
 | 706D | [Vasiliy's Multiset](https://codeforces.com/contest/706/problem/D) | 1800 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/706/D%20-%20Vasiliy's%20Multiset/solution.cpp) |
+| 1285D | [Dr. Evil Underscores](https://codeforces.com/contest/1285/problem/D) | 1900 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/1285/D%20-%20Dr.%20Evil%20Underscores/solution.cpp) |
 | 1547G | [How Many Paths?](https://codeforces.com/contest/1547/problem/G) | 2100 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/1547/G%20-%20How%20Many%20Paths%3F/solution.cpp) |
 
 ---
