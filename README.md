@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 18 | 15 |
+| 19 | 16 |
 
 ---
 
@@ -16,11 +16,12 @@
 - [binary search](#binary-search) (1)
 - [bitmasks](#bitmasks) (2)
 - [brute force](#brute-force) (1)
+- [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [data structures](#data-structures) (2)
 - [dfs and similar](#dfs-and-similar) (2)
 - [divide and conquer](#divide-and-conquer) (2)
-- [dp](#dp) (6)
+- [dp](#dp) (7)
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (1)
 - [math](#math) (2)
@@ -63,6 +64,12 @@
 |---|---------|------------|----------|
 | 1285D | [Dr. Evil Underscores](https://codeforces.com/contest/1285/problem/D) | 1900 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/1285/D%20-%20Dr.%20Evil%20Underscores/solution.cpp) |
 
+### combinatorics
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1036C | [Classy Numbers](https://codeforces.com/contest/1036/problem/C) | 1900 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/1036/C%20-%20Classy%20Numbers/solution.cpp) |
+
 ### constructive algorithms
 
 | # | Problem | Difficulty | Solution |
@@ -97,6 +104,7 @@
 | 222E | [Decoding Genome](https://codeforces.com/contest/222/problem/E) | 1900 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/222/E%20-%20Decoding%20Genome/solution.cpp) |
 | 582B | [Once Again...](https://codeforces.com/contest/582/problem/B) | 1900 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/582/B%20-%20Once%20Again.../solution.cpp) |
 | 621E | [Wet Shark and Blocks](https://codeforces.com/contest/621/problem/E) | 2000 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/621/E%20-%20Wet%20Shark%20and%20Blocks/solution.cpp) |
+| 1036C | [Classy Numbers](https://codeforces.com/contest/1036/problem/C) | 1900 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/1036/C%20-%20Classy%20Numbers/solution.cpp) |
 | 1117D | [Magic Gems](https://codeforces.com/contest/1117/problem/D) | 2100 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/1117/D%20-%20Magic%20Gems/solution.cpp) |
 | 1285D | [Dr. Evil Underscores](https://codeforces.com/contest/1285/problem/D) | 1900 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/1285/D%20-%20Dr.%20Evil%20Underscores/solution.cpp) |
 | 1547G | [How Many Paths?](https://codeforces.com/contest/1547/problem/G) | 2100 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/1547/G%20-%20How%20Many%20Paths%3F/solution.cpp) |
