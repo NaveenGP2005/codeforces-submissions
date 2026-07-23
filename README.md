@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 20 | 16 |
+| 21 | 18 |
 
 ---
 
@@ -21,11 +21,13 @@
 - [data structures](#data-structures) (2)
 - [dfs and similar](#dfs-and-similar) (2)
 - [divide and conquer](#divide-and-conquer) (2)
-- [dp](#dp) (8)
+- [dp](#dp) (9)
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (1)
+- [implementation](#implementation) (1)
 - [math](#math) (2)
 - [matrices](#matrices) (4)
+- [sortings](#sortings) (1)
 - [strings](#strings) (2)
 - [trees](#trees) (4)
 
@@ -109,6 +111,7 @@
 | 1036C | [Classy Numbers](https://codeforces.com/contest/1036/problem/C) | 1900 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/1036/C%20-%20Classy%20Numbers/solution.cpp) |
 | 1117D | [Magic Gems](https://codeforces.com/contest/1117/problem/D) | 2100 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/1117/D%20-%20Magic%20Gems/solution.cpp) |
 | 1285D | [Dr. Evil Underscores](https://codeforces.com/contest/1285/problem/D) | 1900 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/1285/D%20-%20Dr.%20Evil%20Underscores/solution.cpp) |
+| 1501B | [Napoleon Cake](https://codeforces.com/contest/1501/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/1501/B%20-%20Napoleon%20Cake/solution.cpp) |
 | 1547G | [How Many Paths?](https://codeforces.com/contest/1547/problem/G) | 2100 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/1547/G%20-%20How%20Many%20Paths%3F/solution.cpp) |
 
 ### graphs
@@ -122,6 +125,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1285D | [Dr. Evil Underscores](https://codeforces.com/contest/1285/problem/D) | 1900 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/1285/D%20-%20Dr.%20Evil%20Underscores/solution.cpp) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1501B | [Napoleon Cake](https://codeforces.com/contest/1501/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/1501/B%20-%20Napoleon%20Cake/solution.cpp) |
 
 ### math
 
@@ -138,6 +147,12 @@
 | 582B | [Once Again...](https://codeforces.com/contest/582/problem/B) | 1900 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/582/B%20-%20Once%20Again.../solution.cpp) |
 | 621E | [Wet Shark and Blocks](https://codeforces.com/contest/621/problem/E) | 2000 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/621/E%20-%20Wet%20Shark%20and%20Blocks/solution.cpp) |
 | 1117D | [Magic Gems](https://codeforces.com/contest/1117/problem/D) | 2100 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/1117/D%20-%20Magic%20Gems/solution.cpp) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1501B | [Napoleon Cake](https://codeforces.com/contest/1501/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/NaveenGP2005/codeforces-submissions/blob/HEAD/1501/B%20-%20Napoleon%20Cake/solution.cpp) |
 
 ### strings
 
